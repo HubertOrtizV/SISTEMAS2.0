@@ -7,8 +7,8 @@
    ¡NUNCA pongas aquí la clave "service_role"!
    ========================================================= */
 window.APP_CONFIG = {
-  SUPABASE_URL: 'PEGA_AQUI_TU_PROJECT_URL',
-  SUPABASE_ANON_KEY: 'PEGA_AQUI_TU_ANON_KEY',
+  SUPABASE_URL: 'https://ngwmdtyxhblyrsfrhziv.supabase.co',
+  SUPABASE_ANON_KEY: 'sb_publishable_1zWlrPOaZ6OJD5Dp3RHybA_sHXLsHmw',
 
   // Nombre que aparece en el encabezado de la aplicación
   NOMBRE_EMPRESA: 'TransAndes Logística',
